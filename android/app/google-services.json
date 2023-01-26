@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "822192646167",
+    "project_id": "wechatclone-96686",
+    "storage_bucket": "wechatclone-96686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822192646167:android:3ba6079c69296246129452",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822192646167-t0bqiobiip0utp15fj34vp2gk7gknabq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mpF5md-juNDBEZuydtR8OHOymO_PIKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822192646167-t0bqiobiip0utp15fj34vp2gk7gknabq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
